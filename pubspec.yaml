@@ -37,6 +37,8 @@ dependencies:
   fl_chart: ^0.68.0
   flutter_rating_bar: ^4.0.1
   marquee: ^2.2.3
+  get: ^4.7.2
+  url_launcher: ^6.1.11
 
 
 dev_dependencies:
